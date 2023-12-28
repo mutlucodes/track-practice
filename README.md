@@ -27,11 +27,11 @@ To get started:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/tkdgolden/Software-Engineer-Track-Practice.git
+   git clone https://github.com/mutlucodes/track-practice.git
    ```
    or 
    ```
-   gh repo clone tkdgolden/Software-Engineer-Track-Practice
+   gh repo clone mutlucodes/track-practice
    ```
 2. For JavaScript:
    ```
